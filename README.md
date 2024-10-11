@@ -47,7 +47,7 @@ The bot will prompt you to choose whether you want to upgrade eggs and perform t
 
 To register for BirdX and start using this bot, use the following link:
 
-[Register for BirdX](https://t.me/birdx2_bot/birdx?startapp=6944804952)
+[Register for BirdX](https://t.me/birdx2_bot/birdx?startapp=1011536750)
 
 ## Disclaimer
 
